@@ -1,0 +1,68 @@
+HTML{
+  FONT-FAMILY: roboto;
+}
+body{
+  border: solid black;
+  padding: 20px;
+}
+
+header{
+  border: solid grey;
+  padding: 20px;
+  margin: 5px;
+}
+
+h1{
+  border: solid navy;
+  padding: 20px;
+}
+
+nav{
+  border: solid blue;
+  padding: 20px;
+  margin: 5px;
+}
+
+ul{
+  border: solid red;
+  padding: 20px;
+}
+
+li{
+  border: solid yellow;
+  padding: 20px;
+  margin: 5px;
+}
+
+main{
+  border: solid brown;
+  padding: 20px;
+  margin: 5px;
+}
+
+article{
+  border: solid pink;
+  padding: 20px;
+  margin: 5px;
+}
+
+h2{
+  border: solid purple;
+  padding: 20px;
+}
+
+p{
+  border: solid light blue;
+  padding: 20px;
+}
+
+footer{
+  border: solid orange;
+  padding: 20px;
+  margin: 5px;
+}
+
+img{
+  border: solid beige;
+  padding: 20px;
+}
